@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/rodion/Documents/C++/ComputerShop/cmake-build-debug",
+  "command": "/usr/bin/clang++-6.0   -I/home/rodion/Documents/C++/ComputerShop/cmake-build-debug  -g   -std=gnu++17 -o CMakeFiles/ComputerShop.dir/main.cpp.o -c /home/rodion/Documents/C++/ComputerShop/main.cpp",
+  "file": "/home/rodion/Documents/C++/ComputerShop/main.cpp"
+},
+{
+  "directory": "/home/rodion/Documents/C++/ComputerShop/cmake-build-debug",
+  "command": "/usr/bin/clang++-6.0   -I/home/rodion/Documents/C++/ComputerShop/cmake-build-debug  -g   -std=gnu++17 -o CMakeFiles/ComputerShop.dir/MemoryModel/Goods/Component/Component.cpp.o -c /home/rodion/Documents/C++/ComputerShop/MemoryModel/Goods/Component/Component.cpp",
+  "file": "/home/rodion/Documents/C++/ComputerShop/MemoryModel/Goods/Component/Component.cpp"
+},
+{
+  "directory": "/home/rodion/Documents/C++/ComputerShop/cmake-build-debug",
+  "command": "/usr/bin/clang++-6.0   -I/home/rodion/Documents/C++/ComputerShop/cmake-build-debug  -g   -std=gnu++17 -o CMakeFiles/ComputerShop.dir/MemoryModel/Goods/Component/GraphicsCard.cpp.o -c /home/rodion/Documents/C++/ComputerShop/MemoryModel/Goods/Component/GraphicsCard.cpp",
+  "file": "/home/rodion/Documents/C++/ComputerShop/MemoryModel/Goods/Component/GraphicsCard.cpp"
+},
+{
+  "directory": "/home/rodion/Documents/C++/ComputerShop/cmake-build-debug",
+  "command": "/usr/bin/clang++-6.0   -I/home/rodion/Documents/C++/ComputerShop/cmake-build-debug  -g   -std=gnu++17 -o CMakeFiles/ComputerShop.dir/MemoryModel/Goods/Computer.cpp.o -c /home/rodion/Documents/C++/ComputerShop/MemoryModel/Goods/Computer.cpp",
+  "file": "/home/rodion/Documents/C++/ComputerShop/MemoryModel/Goods/Computer.cpp"
+},
+{
+  "directory": "/home/rodion/Documents/C++/ComputerShop/cmake-build-debug",
+  "command": "/usr/bin/clang++-6.0   -I/home/rodion/Documents/C++/ComputerShop/cmake-build-debug  -g   -std=gnu++17 -o CMakeFiles/ComputerShop.dir/MemoryModel/Storage/ComponentsStorage.cpp.o -c /home/rodion/Documents/C++/ComputerShop/MemoryModel/Storage/ComponentsStorage.cpp",
+  "file": "/home/rodion/Documents/C++/ComputerShop/MemoryModel/Storage/ComponentsStorage.cpp"
+},
+{
+  "directory": "/home/rodion/Documents/C++/ComputerShop/cmake-build-debug",
+  "command": "/usr/bin/clang++-6.0   -I/home/rodion/Documents/C++/ComputerShop/cmake-build-debug  -g   -std=gnu++17 -o CMakeFiles/Tests.dir/main.cpp.o -c /home/rodion/Documents/C++/ComputerShop/main.cpp",
+  "file": "/home/rodion/Documents/C++/ComputerShop/main.cpp"
+}
+]

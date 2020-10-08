@@ -1,0 +1,5 @@
+/home/rodion/Documents/C++/ComputerShop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rodion/Documents/C++/ComputerShop/cmake-build-debug/CMakeFiles/ComputerShop.dir
+/home/rodion/Documents/C++/ComputerShop/cmake-build-debug/CMakeFiles/Tests.dir
+/home/rodion/Documents/C++/ComputerShop/cmake-build-debug/CMakeFiles/test.dir
+/home/rodion/Documents/C++/ComputerShop/cmake-build-debug/CMakeFiles/edit_cache.dir

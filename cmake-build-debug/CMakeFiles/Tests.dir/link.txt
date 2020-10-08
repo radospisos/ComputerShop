@@ -1,0 +1,1 @@
+/usr/bin/clang++-6.0  -g   CMakeFiles/Tests.dir/main.cpp.o  -o Tests  -Wl,-rpath,/usr/local/lib /usr/local/lib/libgtest.a /usr/local/lib/libgtest_main.a /usr/local/lib/libgmock.a /usr/local/lib/libgmock_main.a /usr/lib/x86_64-linux-gnu/libboost_date_time.a /usr/local/lib/libprotobuf.so -lpthread /usr/local/lib/libgtest.a -lpthread 
